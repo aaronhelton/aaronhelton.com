@@ -3,7 +3,7 @@ title: "2018 Reading Plan"
 date: 2018-01-23
 tags: ['reading lists', 'books']
 ---
-_(Note: This post was saved from Medium, where it first appeared. It is here for archival purposes.)_
+_(Note: This post was rescued from Medium, where it first appeared. It is here for archival purposes.)_
 
 Even though we're almost a month in, there's still plenty of time left in the year to get started reading if you haven't already. And if you need a list, that's what this is for.
 
