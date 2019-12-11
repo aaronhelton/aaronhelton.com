@@ -1,4 +1,4 @@
-baseURL = "http://www.aaronhelton.com/"
+baseURL = "https://www.aaronhelton.com/"
 languageCode = "en-us"
 title = "Aaron Helton"
 theme = "introduction"
