@@ -1,6 +1,7 @@
 ---
 title: "Beowulf: Introduction"
 date: 2017-03-01
+author: "S. Nightingale"
 tags: [History, Literature, Books, Beowulf, Scandinavia]
 ---
 

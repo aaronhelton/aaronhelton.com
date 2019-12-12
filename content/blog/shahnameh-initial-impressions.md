@@ -1,6 +1,7 @@
 ---
 title: "Shahnameh: Initial Impressions"
 date: 2017-01-03
+author: "S. Nightingale"
 tags: [Books, Literature, Shahnameh, Iran, History]
 ---
 

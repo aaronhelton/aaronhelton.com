@@ -1,6 +1,7 @@
 ---
 title: "Bad History and Ancient Globalization"
 date: 2017-03-06
+author: "S. Nightingale"
 tags: [History, Literature, Books, Iran, Shahnameh]
 ---
 Earlier, I mentioned that the Sekandar character in Shahnameh was none other than Alexander the Great, and to a large extent the analog holds. There are, however, some interesting anachronisms in Ferdowsi’s text. This is to be expected if you recall that Shahnameh is not a faithful historical document, but instead serves other, more allegorical purposes. Indeed, in earlier parts of the epic, the mists of time obscure familiar reference points such that they just don’t matter that much. But as the story has progressed inevitably toward a time with better-corroborated historical records, the correlation of events separated by centuries starts to raise eyebrows.

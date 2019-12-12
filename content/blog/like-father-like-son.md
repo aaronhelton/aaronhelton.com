@@ -1,6 +1,7 @@
 ---
 title: "Like Father Like Son?"
 date: 2017-01-06
+author: "S. Nightingale"
 tags: [Books, Shahnameh, Literature, Iran, History]
 ---
 ![Illustration of Kay Kavus. Source: http://www.iranicaonline.org/articles/kayanian-v](/images/kavus.jpeg)*Illustration of Kay Kavus. Source: http://www.iranicaonline.org/articles/kayanian-v*

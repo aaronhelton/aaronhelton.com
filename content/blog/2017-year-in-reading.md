@@ -1,6 +1,7 @@
 ---
 title: "2017 Year in Reading"
 date: 2017-12-11
+author: "S. Nightingale"
 tags: ['reading','books']
 ---
 _(Note: This post was rescued from Medium, where it first appeared. It is here for archival purposes.)_

@@ -1,6 +1,7 @@
 ---
 title: "Impelled by Fear: Historical Name-dropping"
 date: 2017-07-31
+author: "S. Nightingale"
 tags: [History, Literature, Books, Aeneid, Rome]
 ---
 [![Man of Constant Sorrow](http://img.youtube.com/vi/meCZ5hWNRFU/0.jpg)](https://youtu.be/meCZ5hWNRFU "Man of Constant Sorrow")

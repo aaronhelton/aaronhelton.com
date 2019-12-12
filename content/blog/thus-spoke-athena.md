@@ -1,6 +1,7 @@
 ---
 title: "Thus Spoke Athena"
 date: 2017-06-28
+author: "S. Nightingale"
 tags: [History, Literature, Books, Odyssey, Greece]
 ---
 The Odyssey + Midyear Check-in

@@ -1,6 +1,7 @@
 ---
 title: The Fame That Never Dies
 date: 2017-04-10
+author: "S. Nightingale"
 tags: [The Iliad, Beowulf, Books, Literature]
 ---
 A Confluence of Funerary Practices

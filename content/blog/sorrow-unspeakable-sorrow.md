@@ -1,6 +1,7 @@
 ---
 title: "Sorrow, Unspeakable Sorrow"
 date: 2017-07-26
+author: "S. Nightingale"
 tags: [History, Literature, Books, Aeneid, Rome]
 ---
 The Aeneid

@@ -1,6 +1,7 @@
 ---
 title: "Sing the Rage 2 the Odyssey"
 date: 2017-05-08
+author: "S. Nightingale"
 tags: [History, Literature, Books, Odyssey, Greece]
 ---
 

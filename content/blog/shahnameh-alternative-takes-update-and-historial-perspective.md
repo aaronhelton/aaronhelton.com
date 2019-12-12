@@ -1,6 +1,7 @@
 ---
 title: "Shahnameh: Alternative Takes, Update, and Historical Perspective"
 date: 2017-02-13
+author: "S. Nightingale"
 tags: [History, Iran, Shahnameh, Books, Literature]
 ---
 As time permits, I find myself searching the web for people, places, events, and ideas in Shahnameh. I was pleasantly surprised during such a search to encounter the blog of sci-fi/fantasy author Kate Elliott, who spent much of 2016 reading Shahnameh with another author, Tessa Gratton. They’ve used the opportunity to have a conversation about each of 42 segments (although by the looks of it, they missed a couple of weeks). You should give their conversation a read.

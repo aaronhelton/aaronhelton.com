@@ -1,6 +1,7 @@
 ---
 title: "Sing the Rage: The Iliad"
 date: 2017-04-01
+author: "S. Nightingale"
 tags: [History, Literature, Books, Iliad, Greece]
 ---
 ![Triumphant Achilles](/images/achilles.jpeg)*Triumphant Achilles. [Source](https://en.wikipedia.org/wiki/Achilles#/media/File:Triumph_of_Achilles_in_Corfu_Achilleion.jpg)*

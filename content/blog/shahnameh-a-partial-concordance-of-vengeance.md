@@ -1,6 +1,7 @@
 ---
 title: "Shahnameh: A Partial Concordance of Vengeance"
 date: 2017-01-17
+author: "S. Nightingale"
 tags: [Shahnameh, Iran, History, Books, Literature]
 ---
 In my mind, there is something inherently pleasing about a concordance. To those who know me, this is perhaps not a surprising revelation. After all, as a child I spent more time than most thumbing through dictionaries, reading entries at random. We also had a copy of Strong’s Concordance (i.e., The Exhaustive Concordance of the Bible), which, while an admittedly overwhelming tome, nevertheless served as a point of continual attraction to me. I will readily admit to having a narrow scope of interests with respect to Strong’s, but the mere fact that an exhaustive index of words used in the King James Bible existed fascinated me, and I made frequent use of it.

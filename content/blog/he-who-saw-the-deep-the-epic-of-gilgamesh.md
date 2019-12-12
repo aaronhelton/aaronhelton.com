@@ -1,6 +1,7 @@
 ---
 title: "He Who Saw the Deep: the Epic of Gilgamesh"
 date: 2017-02-01
+author: "S. Nightingale"
 tags: [History, Literature, Books, Iraq, Gilgamesh]
 ---
 

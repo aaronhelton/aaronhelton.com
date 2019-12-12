@@ -1,6 +1,7 @@
 ---
 title: "2017 Sacer Epic Reading Journey"
 date: 2016-12-29
+author: "S. Nightingale"
 tags: ['reading lists', 'books']
 ---
 _(Note: This post was rescued from Medium, where it first appeared. It is here for archival purposes.)_

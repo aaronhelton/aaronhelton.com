@@ -1,6 +1,7 @@
 ---
 title: "The Struggle Itself"
 date: 2017-02-13
+author: "S. Nightingale"
 tags: [Philosophy, Life, Sisyphus, Progress, Struggle]
 ---
 

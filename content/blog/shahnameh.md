@@ -1,6 +1,7 @@
 ---
 title: "Shahnameh"
 date: 2017-01-01
+author: "S. Nightingale"
 draft: true
 ---
 _(Note: This post was rescued from Medium, where it first appeared. It is here for archival purposes.)_

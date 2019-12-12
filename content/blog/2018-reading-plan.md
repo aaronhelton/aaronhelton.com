@@ -1,6 +1,7 @@
 ---
 title: "2018 Reading Plan"
 date: 2018-01-23
+author: "S. Nightingale"
 tags: ['reading lists', 'books']
 ---
 _(Note: This post was rescued from Medium, where it first appeared. It is here for archival purposes.)_
