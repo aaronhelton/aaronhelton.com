@@ -1,0 +1,23 @@
+{
+  "name": "aaronhelton.com",
+  "version": "1.0.0",
+  "description": "aaronhelton.com",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronhelton/aaronhelton.com.git"
+  },
+  "author": "Aaron Helton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaronhelton/aaronhelton.com/issues"
+  },
+  "homepage": "https://github.com/aaronhelton/aaronhelton.com#readme",
+  "dependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss-cli": "^10.0.0"
+  }
+}
