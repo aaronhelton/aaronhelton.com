@@ -1,7 +1,6 @@
 ---
 title: "The Real Curse of Strahd"
 date: 2022-10-28
-draft: false
 tags: ["ttrpg","osm"]
 ---
 In pursuit of an idea[^1], I decided to run the original 1983 Ravenloft module. You know, the AD&D module that introduced us to the lord of the Domain of Dread, Strahd von Zarovich. The setup was simple enough: I proposed to run the adventure using Old School Essentials characters and mechanics, and it would take a session or two. Or so I thought. The reality is that at the pace my players were going, a full run-through of the module was set to take at least four sessions. Since I was allocating these sessions on a monthly basis, and I couldn't guarantee the players would be able to return (in fact, some didn't), I did not find this a sustainable path. I shelved that series, but it wasn't the length of the module that ultimately turned me off.
