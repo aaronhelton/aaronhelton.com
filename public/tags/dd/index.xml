@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D&amp;D on Aaron Helton</title>
+    <link>https://www.aaronhelton.com/tags/dd/</link>
+    <description>Recent content in D&amp;D on Aaron Helton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aaronhelton.com/tags/dd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Magic as Technology</title>
+      <link>https://www.aaronhelton.com/blog/on-magic-as-technology/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aaronhelton.com/blog/on-magic-as-technology/</guid>
+      <description>What I am about to explore are the ramifications of abundantly available magic in a society, such as the many, many examples presented in popular fantasy literature and role-playing games. I am doing so out of the belief that many instances of magic in fantasy settings amount to inscrutable black boxes, which means that magic itself is rarely examined or improved upon. That is, it may ACT like a technology, but is rarely TREATED as one.</description>
+    </item>
+    
+  </channel>
+</rss>

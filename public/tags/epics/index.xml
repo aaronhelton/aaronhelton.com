@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>epics on Aaron Helton</title>
+    <link>https://www.aaronhelton.com/tags/epics/</link>
+    <description>Recent content in epics on Aaron Helton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Apr 2020 18:03:18 -0500</lastBuildDate><atom:link href="https://www.aaronhelton.com/tags/epics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2020 Reading List Update</title>
+      <link>https://www.aaronhelton.com/blog/2020-reading-list-update/</link>
+      <pubDate>Mon, 27 Apr 2020 18:03:18 -0500</pubDate>
+      
+      <guid>https://www.aaronhelton.com/blog/2020-reading-list-update/</guid>
+      <description>Since mid-March, my reading schedule is provisional and inconsistent. Like many others, I am working from home, which has wreaked havoc on any sense of routine, even though I do my best to cling to what I can. Still, while I am confident that much of my original reading plan will stay firmly off the rails, there is no reason to abandon hope.
+Often, I make plans but lose interest in them anyway.</description>
+    </item>
+    
+    <item>
+      <title>2020 Reading List</title>
+      <link>https://www.aaronhelton.com/blog/2020-reading-list/</link>
+      <pubDate>Mon, 16 Dec 2019 18:03:18 -0500</pubDate>
+      
+      <guid>https://www.aaronhelton.com/blog/2020-reading-list/</guid>
+      <description>2019 was not a banner year for me in reading, a fact I blame on the lack of a reading list. I&amp;rsquo;ve come to realize that I need a some means of guiding my reading for the year, especially if I have a particular theme or set of themes I am exploring.
+In keeping with earlier themes, I am returning in 2020 to epics, one a month if I can read that fast.</description>
+    </item>
+    
+  </channel>
+</rss>

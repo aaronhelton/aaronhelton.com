@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>technology on Aaron Helton</title>
+    <link>https://www.aaronhelton.com/tags/technology/</link>
+    <description>Recent content in technology on Aaron Helton</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Nov 2011 00:00:00 +0000</lastBuildDate><atom:link href="https://www.aaronhelton.com/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>On Magic as Technology</title>
+      <link>https://www.aaronhelton.com/blog/on-magic-as-technology/</link>
+      <pubDate>Mon, 28 Nov 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aaronhelton.com/blog/on-magic-as-technology/</guid>
+      <description>What I am about to explore are the ramifications of abundantly available magic in a society, such as the many, many examples presented in popular fantasy literature and role-playing games. I am doing so out of the belief that many instances of magic in fantasy settings amount to inscrutable black boxes, which means that magic itself is rarely examined or improved upon. That is, it may ACT like a technology, but is rarely TREATED as one.</description>
+    </item>
+    
+    <item>
+      <title>How Many People DOES It Take?</title>
+      <link>https://www.aaronhelton.com/blog/how-many-people-does-it-take/</link>
+      <pubDate>Thu, 08 Sep 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.aaronhelton.com/blog/how-many-people-does-it-take/</guid>
+      <description>How many people DOES it take? One of the curious consequences of the nearly 500 year primacy of the corporation is the shift from labor intensive (human powered) processes to capital intensive (technology powered) processes. It is clear that both have different efficiency curves, and indeed labor intensive processes max out at a point well below that of the capital intensive process. And so the ultimate goal, if we follow the trend to its logical conclusion, is to create the smallest class of workers possible to run the most complex society we can envision.</description>
+    </item>
+    
+  </channel>
+</rss>
