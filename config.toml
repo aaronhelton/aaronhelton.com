@@ -35,6 +35,7 @@ theme = "introduction"
         url = "https://hilltown.studio/@aaron"
         icon = "mastodon"
         icon_pack = "fab"
+        html_attributes = "rel=\"me\""
 
     [[params.social]]
         url = "https://discordapp.com/users/427637132547457055"
