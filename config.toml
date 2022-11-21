@@ -32,6 +32,16 @@ theme = "introduction"
         icon_pack = "fab"
 
     [[params.social]]
+        url = "https://hilltown.studio/@aaron"
+        icon = "mastodon"
+        icon_pack = "fab"
+
+    [[params.social]]
+        url = "https://discordapp.com/users/427637132547457055"
+        icon = "discord"
+        icon_pack = "fab"
+
+    [[params.social]]
         url = "mailto:abhelton@gmail.com"  
         icon = "paper-plane" 
         icon_pack = "fas"
