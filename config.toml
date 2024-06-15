@@ -25,11 +25,6 @@ theme = "introduction"
     [params.share]
         twitter                  = true
         facebook                 = true
-    
-    [[params.social]]
-        url   = "https://twitter.com/MariusAgricola"
-        icon  = "twitter" 
-        icon_pack = "fab"
 
     [[params.social]]
         url = "https://hilltown.studio/@aaron"
